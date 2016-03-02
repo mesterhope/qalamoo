@@ -1,0 +1,1 @@
+/home/omid/PhpstormProjects/ghalamoo/app/views/galleries/show.blade.php
